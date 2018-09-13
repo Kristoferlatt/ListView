@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="od">code</string>
+    <string name="city">city</string>
+    <string name="cl">Clear</string>
+    <string name="scr">Search</string>
+</resources>
